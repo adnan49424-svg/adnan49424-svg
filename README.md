@@ -3,7 +3,8 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Ticket Troubleshooting</b>
-  - [Account Locket Ticket](https://github.com/adnan49424-svg/Password-Reset-Account-Lockout)
+  - [Account Lockout Ticket](https://github.com/adnan49424-svg/Password-Reset-Account-Lockout)
+  - [No internet Ticket](https://github.com/adnan49424-svg/No-Internet/blob/main/README.md)
 - <b>Linux</b>
 - <b>SOC Analyst</b>
 - <b>Windows</b>
