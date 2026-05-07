@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Ticket Troubleshooting</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Account Locket Ticket](https://github.com/adnan49424-svg/Password-Reset-Account-Lockout)
 - <b>Linux</b>
 - <b>SOC Analyst</b>
 - <b>Windows</b>
