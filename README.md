@@ -5,6 +5,7 @@
 - <b>Ticket Troubleshooting</b>
   - [Account Lockout Ticket](https://github.com/adnan49424-svg/Password-Reset-Account-Lockout)
   - [No internet Ticket](https://github.com/adnan49424-svg/No-Internet/blob/main/README.md)
+  - [File Permissions Ticket](https://github.com/adnan49424-svg/File-Permissions-Denied/blob/main/README.md)
 - <b>Linux</b>
 - <b>SOC Analyst</b>
 - <b>Windows</b>
